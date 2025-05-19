@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/2052afb9-a90e-487c-b9e8-821b8f6bb75d
 
 Console Output:-
 
-'''
+```
 PS C:\Users\Aditya\Downloads\Snake-AI-pytorch> python.exe .\agent.py
 pygame 2.6.1 (SDL 2.28.4, Python 3.13.0)
 Hello from the pygame community. https://www.pygame.org/contribute.html
@@ -1478,4 +1478,4 @@ Game 1464 Score 14 Record: 79
 Game 1465 Score 36 Record: 79
 Game 1466 Score 55 Record: 79
 PS C:\Users\Aditya\Downloads\Snake-AI-pytorch>
-'''
+```
